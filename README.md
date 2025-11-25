@@ -20,8 +20,12 @@ Status Management: Update issue status and add internal comments
 
 Analytics: View performance metrics and issue trends
 
+
+
 🛠️ Tech Stack
+
 Frontend
+
 React.js - Frontend framework
 
 Leaflet - Interactive maps
@@ -29,6 +33,7 @@ Leaflet - Interactive maps
 CSS3 - Styling and responsive design
 
 Backend
+
 Node.js - Runtime environment
 
 Express.js - Web application framework
